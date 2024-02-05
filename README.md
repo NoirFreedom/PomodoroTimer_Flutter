@@ -20,6 +20,6 @@
 
 - **상태 관리**: 앱의 상태는 사용자가 타이머를 조작할 때마다 실시간으로 업데이트됩니다.
 
-<img src="assets/images/pomodoro_main_screen.png" alt="포모도로 타이머 앱" width="300">
+<img src="pomodoroApp/assets/images/pomodoro_main_screen.png" alt="포모도로 타이머 앱" width="300">
 
 
